@@ -394,6 +394,9 @@ footer ul li a{
         width: 80%;
         font-size: 1.5rem;
     }
+    .input-box input::placeholder{
+        font-size: 1.5rem;
+    }
     footer ul{
         gap: 1rem;
     }
